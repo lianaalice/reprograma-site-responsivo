@@ -27,6 +27,7 @@ body {
 
 .menu { /* engloba cada item da lista (li) */
     display: flex;
+    width: 100%;
 }
 
 .menu__item { /*engloba o link*/
@@ -92,3 +93,7 @@ body {
     margin: 42px 120px;
 }
 
+@media screen and (max-width: 860px) {
+
+
+}
